@@ -1,0 +1,15 @@
+{
+  "name": "starlight-voyage",
+  "version": "2.1.0",
+  "description": "별빛 항해 — 로그인 없이 링크로 친구들과 여러 행성을 항해하는 멀티 게임",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
